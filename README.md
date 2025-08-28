@@ -1,5 +1,8 @@
 # Sentiment Analysis on Product Reviews
 
+![Sentiment-analysis Banner](visuals/prj1.jpg)
+
+
 ## 🚀 Project Overview
 This project analyzes product reviews to classify sentiment (**positive, neutral, negative**) and extract key aspects (**delivery, price, packaging**) to provide actionable business insights.  
 
@@ -121,7 +124,7 @@ Features:
 ## 📊 Visuals / Dashboard Preview
 
 ### 1. Sentiment Distribution
-![Sentiment Distribution](images/sentiment_distribution.png)
+![Sentiment Distribution](visuals/aspect_level_sentiment_distr.png)
 *Shows how reviews are distributed among positive, neutral, and negative categories.*
 
 ---
@@ -129,22 +132,22 @@ Features:
 ### 2. Top Words by Sentiment
 
 <p align="center">
-  <img src="images/top_words_positive.png" alt="Top Words Positive" width="300" style="margin-right:10px"/>
-  <img src="images/top_words_neutral.png" alt="Top Words Neutral" width="300" style="margin-right:10px"/>
-  <img src="images/top_words_negative.png" alt="Top Words Negative" width="300"/>
+  <img src="visuals/top_words_positive.png" alt="Top Words Positive" width="300" style="margin-right:10px"/>
+  <img src="visuals/top_words_neutral.png" alt="Top Words Neutral" width="300" style="margin-right:10px"/>
+  <img src="visuals/top_words_negative.png" alt="Top Words Negative" width="300"/>
 </p>
 
 
 ---
 
 ### 3. Aspect-level Sentiment Insights
-![Aspect-level Sentiment](images/aspect_level_sentiment.png)
+![Aspect-level Sentiment](visuals/aspect_level_sentiment_distr.png)
 *Highlights sentiment for different aspects like delivery, price, packaging, etc.*
 
 ---
 
 ### 4. Example Streamlit Dashboard
-![Streamlit Dashboard](images/streamlit_dashboard.png)
+![Streamlit Dashboard](visuals/stream.jpg)
 *Interactive dashboard with filters, sentiment visualizations, and aspect insights.*
 
 ---
